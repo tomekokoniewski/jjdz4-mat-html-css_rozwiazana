@@ -1,16 +1,10 @@
-.black{
+body h1{
     color: black;
 
+ul li{
+color: black;
 }
-#li1{
-    color: black;
-}
-#li2{
-    color: black;
-}
-#li3{
-    color: black;
-}
+
 #button{
     color: black;
 }

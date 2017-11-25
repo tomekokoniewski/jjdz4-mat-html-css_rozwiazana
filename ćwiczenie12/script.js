@@ -1,3 +1,8 @@
+//$(document).ready(function() {
+//    alert("asfd");
+//});
 $(document).ready(function() {
-    $('.alert').slideDown( "slow")
+    $("#button").click(function () {
+        alert("Hello")
+    });
 });
